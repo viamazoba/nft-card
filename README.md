@@ -16,3 +16,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### Here you can see my layout: https://viamazoba.github.io/nft-card/
+
+Thanks to show my work!
